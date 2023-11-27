@@ -34,7 +34,7 @@ Install Xampp Server
   import database from face.sql inside project directory
 ```
 
-Run the Project(Example Image)
+Run the Project
 
 ```bash
   *Start Xampp Server
